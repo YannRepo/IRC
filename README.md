@@ -12,7 +12,7 @@ To run this program, you will need:
 - g++ compiler
 
 ## Installation
-1- Clone the repository: git clone ``https://github.com/Clivassy/Internet_Relay_Chat_Server``<br>
+1- Clone the repository: git clone ``git@github.com:YannRepo/Internet_Relay_Chat.git``<br>
 2- ``cd Internet_Relay_Chat_Server`` <br>
 3- Compile the code using the provided Makefile: ``make``<br>
 3- Run the server with the following command: ``./ircserv <port> <password>`` <br>
